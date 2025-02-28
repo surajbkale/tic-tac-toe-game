@@ -57,11 +57,6 @@ cd tic-tac-toe
 
 3️⃣ **Open `index.html` in any web browser**.
 
-## 🌍 Live Demo
-
-If deployed, provide a **live link** to your project:
-🔗 [Live Demo](https://your-live-demo-link.com)
-
 ## 🤝 Contributing
 
 If you'd like to contribute to this project:
@@ -93,5 +88,5 @@ This project is **open-source** and available under the **MIT License**.
 ## ✍️ Author
 
 - **Suraj Kale**
-- 🏆 GitHub: [your-github-profile](https://github.com/your-username)
-- 📧 Email: your-email@example.com
+- 🏆 GitHub: [your-github-profile](https://github.com/surajbkale)
+- 📧 Email: surajkale9140@gmail.com
